@@ -1,0 +1,58 @@
+body{
+	margin: 0 auto;
+	background: url(images/photoshoot-bg.webp) no-repeat;
+	background-color: #f7f7f7;
+	background-size: 100% 100%;
+	min-height: 100vh;
+	font-family: 'Roboto', sans-serif;
+}
+.main-container{
+	width: 100%;
+}
+.top-nav{
+	max-width: 100%;
+	padding: 20px 30px;
+	background-color: #000000;
+}
+.page-content{
+	max-width: 787px;
+	margin: 0 auto;
+	padding: 120px 0px;
+	text-align: center;
+}
+.page-content .logos{
+	height: 104px;
+}
+.logoge-logo-light {
+	width: 130px;
+	height: 28.7px;
+}
+.connection-successful {
+	font-size: 28px;
+	color: #ffffff;
+	margin-top: 40px;
+}
+.cs-content{
+	font-size: 18px;
+	line-height: 1.5;
+	color: #ffffff;
+	margin-bottom: 40px;
+}
+.cs-content span{
+	font-weight: bold;
+	letter-spacing: 1px;
+}
+.btn-signin {
+	-webkit-border-radius: 3;
+	-moz-border-radius: 3;
+	border-radius: 3px;
+	color: #ffffff;
+	font-size: 14px;
+	font-weight: bold;
+	background: #4393d7;
+	padding: 10px 18px 9px 19px;
+	text-decoration: none;
+}
+.btn-signin:hover {
+	text-decoration: none;
+}
